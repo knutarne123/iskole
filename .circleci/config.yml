@@ -21,7 +21,7 @@ jobs:
           command: |
             git config --global user.email "thomas@barman-hanssen.no"
             git config --global user.name "thomashannestad"
-            cd iskole && npm install && GIT_USER=thomashannestad USE_SSH=true npm run publish-gh-pages
+            cd iskole && yarn install && GIT_USER=thomashannestad USE_SSH=true yarn deploy
 
 workflows:
   version: 2
