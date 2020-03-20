@@ -8,7 +8,7 @@ Timeplanen for en klasse skal inneholde all organisert undervisning som alle ele
 
 Dersom elevene i klassen kan velge fag som utover det som hele klassen er satt opp med, altså også kan velge gruppefag, vil dette normalt gi begrensninger for oppsettet av klassens timeplan. Det vil i praksis innebære at noen timer blir reservert for undervisning i gruppefag, og i disse timene kan da ikke klassen ha undervisning i klassens obligatoriske fag. Vi ser her bort fra denne mulighet, og henviser til egne avsnitt om gruppefag. Se veiledningen som du finner ved å laste pdf-filen fra lenken oppe i høyrehjørne.
 
-:::tip Tips
+:::tip Tips:
 Ved oppsett av timeplan for nytt skoleår bør en velge første uke i skoleåret som mal. Dette er et gunstig utgangspunkt da timeplan bare kan kopieres fremover i tid.
 :::
 
