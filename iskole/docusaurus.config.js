@@ -85,7 +85,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/BarmanHanssen/iskole',
+            'https://github.com/BarmanHanssen/iskole/tree/master/iskole/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
