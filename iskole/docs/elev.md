@@ -26,7 +26,7 @@ iSkole har et internt meldingssystem. Du kan sende og motta meldinger fra faglæ
 ### Innkommende meldinger
 Uleste meldinger vises med fet skrift. Klikk på meldingen du ønsker å lese, denne vil da vises til høyere for listen over meldinger. Når du leser eller sletter en melding, vil avsenderen kunne se dette under _Sendte meldinger_. Du kan svare på en melding ved å tykke _Svar_. Hvis du har liten skjerm, kan du trykke på pilen mellom meldingslisten og meldingen, eller mellom meldingen og svarfeltet. Da vil meldingslisten/meldingen skjules. For å slette meldinger, trykker du _Slette valgt melding_. Det er mulig å markere flere meldinger ved å bruke kontroll eller skift tasten.
 
-### y melding
+### Ny melding
 Du kan sende melding til faglærer, kontaktlærer og medelever i de fagene du er oppmeldt i. For å velge flere mottakere kan du holde inne kontroll eller skift tasten når du klikker på navnene, og deretter klikke på > knappen under lista. Hvis du ønsker å sende melding til alle i listen, trykker du >>. Vær oppmerksom på at hver liste har sine egene knapper. 
 
 Det er mulig å legge til vedlegg, trykk _Utforsk_, naviger til filen, klikk OK og avslutt med _Legg til_. Vedlegget er lastet opp når det vises i en tabell under _Legg til_. 
