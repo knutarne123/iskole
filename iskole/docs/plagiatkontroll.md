@@ -10,3 +10,4 @@ Når en elev leverer et dokument knyttet til en prøve blir dokumentet automatis
 ## Hvordan komme i gang. 
 Dersom dere ønsker å teste løsningen for plagiatkontroll tar dere kontakt med oss. Vi oppretter da en prøvekonto hos Unicheck og konfigurerer iSkole. Plagiatkonrollen vil da fungere automatisk uten at faglærer trenger å foreta seg noe.
 
+## Hva må faglæreren gjøre?
