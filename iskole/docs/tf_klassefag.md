@@ -13,7 +13,7 @@ står på toppen er den som anses som ansvarlig faglærer.
 **Fag** Fagsammensetningen for klassen bestemmes fra _Grunnlagsdata -> Klasse_ og kan bare endres derfra.
 
 **Fagkode** Dersom fagkoden er forskjellig fra 999999, skal faget ha vurdering
-og utskrives på vitnemål/kompetansebevis.
+og utskrives på vitnemål eller kompetansebevis.
 
 **Fagnavn** brukes ved utskrift av timeplanen. Teksten kan være forskjellig
 fra den offisielle som er bestemt ut fra _Fagkode_.
