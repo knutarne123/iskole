@@ -35,12 +35,17 @@ module.exports = {
           title: 'Dokumentasjon',
           items: [
             {
-              label: 'Timeplan klasse',
+              label: 'Timeplanlegger',
               to: 'docs/timeplan_klasse',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'iSkole - Elev',
+              to: 'docs/elev',
+            }
+            ,
+            {
+              label: 'iSkole - Plagiatkontroll',
+              to: 'docs/plagiatkontroll',
             },
           ],
         },
@@ -65,17 +70,13 @@ module.exports = {
               to: 'blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/iSkole-124411920983708',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Barman Hanssen AS. Built with Docusaurus.`,
     },
   },
   presets: [
