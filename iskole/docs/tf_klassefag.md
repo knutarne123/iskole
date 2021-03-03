@@ -10,7 +10,7 @@ står på toppen er den som anses som ansvarlig faglærer.
 
 **Klasse** Ekspander en klasse ved å klikke på pilen. Alle fagene for denne klassen vil vises. Læreren er det eneste som kan endres. 
 
-**Fag** Fagsammensetningen for klassen bestemmes fra _Grunnlagsdata -> Klasse_ og kan bare endres derfra.
+**Fag** Fagsammensetningen for klassen bestemmes fra _Grunnlagsdata -> Klasse_ og kan bare endres derfra.!
 
 **Fagkode** Dersom fagkoden er forskjellig fra 999999, skal faget ha vurdering
 og utskrives på vitnemål/kompetansebevis.
