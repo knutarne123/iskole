@@ -36,5 +36,8 @@ noen lærere med den aktuelle fagkoden. Hvis det ikke finnes noen fylles listen 
 Når timeplanen vises, hentes læreren ut fra timeplanens ukenummer.
 
 :::note Merk
-Dersom faget som tilordnes en lærer er timeplanlagt, sjekkes det om det blir kollisjon mot lærerens timeplan. Det er ikke mulig å registrere faget på læreren i uker som medfører kollisjon på lærerens timeplan. Ressursfordelingen for faget gis til faglæreren som står oppført på første linje. Skal ressursen fordeles, må korrigerringen gjøres fra Annen ressurs.
+Dersom faget som tilordnes en lærer er timeplanlagt, sjekkes det om det blir kollisjon mot lærerens timeplan. Det er ikke mulig å registrere faget på læreren i uker som medfører kollisjon på lærerens timeplan.
+:::
+:::note Merk 2
+Ressursfordelingen for faget gis til faglæreren som står oppført på første linje. Skal ressursen fordeles, må korrigerringen gjøres fra Annen ressurs.
 :::
