@@ -24,7 +24,7 @@ jobs:
           command: |
             git config --global user.email "thomas@barman-hanssen.no"
             git config --global user.name "thomashannestad"
-            cd iskole && yarn install && GIT_USER=thomashannestad USE_SSH=true yarn run gh-pages --message "[skip ci] Updates"
+            cd iskole && yarn install && GIT_USER=thomashannestad USE_SSH=true yarn deploy --message "[skip ci] Updates"
 
 workflows:
   version: 2
