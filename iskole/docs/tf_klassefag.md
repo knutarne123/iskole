@@ -31,7 +31,7 @@ løpet av skoleåret. For å skifte lærer ut skoleåret gjør en følgende:
 - Klikk _Endre_.
 - Velg læreren fra nedtrekkslista. Hvis det er markert i avkrystningsboksen _Vis kun lærere som har fagkoden - hvis ingen er knyttet til faget vises alle_, så vil kun lærere som har fått registrert fagkoden vises såfremt det finnes
 noen lærere med den aktuelle fagkoden. Hvis det ikke finnes noen fylles listen med alle lærerne ved skolen. Se _Personal -> Ansatt_ og arkfanen _Undervisningsfag_ for å redigere fag til en lærer.
-- Trykk på _OK_
+- Trykk på _OK_.
 
 Når timeplanen vises, hentes læreren ut fra timeplanens ukenummer.
 
