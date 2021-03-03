@@ -1,10 +1,15 @@
-# If you only want circle to run on direct commits to master, you can uncomment this out
-# and uncomment the filters: *filter-only-master down below too
-#
-aliases:
- - &filter-only-master
-   branches:
-     only:
-       - master
+version: 2.1
 
-version: 2
+# Define the jobs we want to run for this project
+jobs:
+  build:
+    docker:
+      - image: circleci/node
+    steps:
+      - checkout
+      - run: echo "this is the build job"
+# Orchestrate our job run sequence
+workflows:
+  build_and_test:
+    jobs:
+      - build
