@@ -1,9 +1,34 @@
 module.exports = {
-  someSidebar: {
-    Elev: ['elev'],
-    'Time- og fagfordeling': ['tf_klassefag'],
-    Timeplan: ['timeplan_blokknr', 'timeplan_klasse', 'tp_kopiering'],
-    Emner: ['plagiatkontroll'],
-    Docusaurus: ['doc1', 'doc2', 'doc3']
-  },
+  someSidebar: [
+    {
+      type: 'doc',
+      label: 'Oversikt',
+      items: ['oversikt'],
+    },
+    {
+      type: 'doc',
+      label: 'iSkole elev',
+      items: ['elev'],
+    },
+    {
+      type: 'category',
+      label: 'Time- og fagfordeling',
+      items: ['tf_klassefag'],
+    },
+    {
+      type: 'category',
+      label: 'Timeplan',
+      items: ['timeplan_blokknr', 'timeplan_klasse', 'tp_kopiering'],
+    },
+    {
+      type: 'category',
+      label: 'Emner',
+      items: ['plagiatkontroll'],
+    },
+    {
+      type: 'category',
+      label: 'Docusaurus',
+      items: ['doc1', 'doc2', 'doc3'],
+    },
+  ],
 };
