@@ -269,3 +269,97 @@ ikke velger å ta med årets gruppeoppsett – også dette er standardverdien
 iSkole forslår. Hvis opplegget for den nye planperioden vil bli nokså likt med
 tanke på gruppeundervisning, kan man markere at man også kopierer med
 gruppene og spare endel arbeid med det.
+
+
+## Selve timeplanleggingen
+Formålet med en timeplan kan kort formuleres som _å vise når og hvor fag har
+undervisning, og hvilke elever og lærere som deltar_. Timeplanen er komplett
+først når all organisert undervisning for hele planperioden er registrert.
+
+Timeplanen gir tilstrekkelig informasjon om all organisert aktivitet ved
+skolen. Ut fra timeplanen skal man kunne finne ut hvor en elev eller lærer
+befinner seg hvis vedkommende har undervisning i en bestemt time i en
+angitt uke.
+For raskt å få et innblikk i hvordan man timeplanlegger klassefag, ser
+vi nå på et enkelt eksempel på hvordan dette kan gjøres. For å få frem
+skjermbildet som er vist under, navigerer man til _Timeplan >
+Timeplanlegge klasse_. Deretter velger man klasse og uke. At man må velge
+en klasse er nokså innlysende, men hvorfor velge uke, og hvilken uke det er
+gunstig å starte med trenger noen kommentarer.
+
+Utgangspunktet vårt er at timeplanen skal legges for et nytt skoleår.
+Etter skolestart kan det være behov for justeringer grunnet skifte av lærer,
+flytting av timer på timeplanen osv.
+
+Vi ser først på timeplanlegging før skolestart. Planperioden løper fra
+1. august til 31. juli, og skoleruten fastslår hvilke dager det skal gis
+undervisning. I eksempelet er skolestart rundt 20. august. Skoleruten blir
+satt opp når man oppretter en ny planperiode, og kan siden redigeres fra
+_Grunnlagsdata > Skolerute_.
+
+Det anbefales å velge den første mulige uken når man skal starte
+timeplanleggingen, også om det ikke er definert skoledager hele uken i
+skoleruten. Et nærliggende spørsmål blir da "Hvorfor legge timeplanen på
+dager hvor det ikke skal være undervisning?". Svaret på det er at når
+timeplanen i denne uken er ferdig, så kan timeplanen kopieres til alle
+ukene i skoleåret. Når timeplanen vises til lærere og elever, så vil det ikke
+vises undervisning på fri- eller planleggingsdager. Det betyr også at denne
+uken kan tjene som en slags prøveuke for timeplanleggeren. Her kan det
+eksperimenteres!. Når timeplanen er gjennomarbeidet for denne uken, kan
+man kopierer den ut til de andre ukene som skal ha samme timeplan. Har
+man en timeplan bestående av to forskjellige timeplaner som bytter hver uke,
+en såkalt alternerende timeplan, så timeplanlegger man to uker og kopierer
+disse ut til de ukene man ønsker.
+
+:::tip Merk
+Rektor/administrator kan stenge innsyn i timeplanen frem til en bestemt
+dato, f.eks. frem til første skoledag. Det kan være greit for å skjerme
+timeplanleggeren i arbeidet helt frem til timeplanen er lagt ferdig.
+:::
+
+Skal det skjer justeringer av timeplanen i løpet av skoleåret, går man
+vanligvis rett inn på den uken avviket skal gjelde, og endrer direkte der
+før man eventuelt kopierer endringen fremover i tid. Merk at man ikke kan
+kopiere timeplanuker bakover i tid.
+
+Timeplanleggeren må også ta i betraktning at fraværsføring er nært
+knyttet til timeplanen, slik at endringer i løpet av skoleåret bør gjøres før
+faglærer starter fraværsføringen på en timeplan som en vet skal endres. Man
+kan føre inn fravær frem i tid hvis man er kjent med at det vil bli fravær
+frem i tid. Hvis man tar bort en time hvor det er ført fravær, så vil fraværet
+forsvinne for denne timen. Regelen er nemlig at det ikke skal finnes fravær
+for noe som ikke er timeplanlagt.
+
+Skjermbildet nedenfor er er delt inn i flere deler som
+binder det hele sammen. Øverst i bildet vises hvilken klasse og uke vi skal
+timeplanlegge. Det er to arkfaner i skjermbildet for klassen: _Timeplan_ og
+_Kopier_ hvor den første arkfanen er vist her. Til venstre i blidet vises fagene
+som klassen følger. Kolonnen _Timer_ forteller hvor mange timer fagene skal
+timeplanlegges denne uken, mens kolonnen _Tp-lagt_ viser hvor mange timer
+som alt er timeplanlagt. Når et fag er ferdig timeplanlagt vil kolonnen
+_Gjennstår_ vise 0 timer, og faget blir vist i kursiv. Fag som ikke er ferdig
+timeplanlagt ligger øverst i listen. I kolonnen _Timer_ er det et ikon som
+forestiller en blyant til høyre for timetallet. Ved å trykke på blyanten kan
+man justere timetallet opp eller ned for denne uken.
+
+Å flytte en time i et klassefag er relativt enkelt, men å flytte en time i
+et gruppefag er er ikke alltid like lett.
+
+Timeplanen under overskriften _Timeplan lærer_ har til hensikt å gi
+timeplanleggeren en kortfattet oversikt over hva som allerede er timeplanlagt
+for de lærerne man har valgt. I utgangspunktet vises timeplanen til læreren
+som underviser i det valgte faget, altså faget som er markert under _Fag_.
+Det er i listene nede til venstre mulig å velge andre lærere som da vil
+vises sammen med lærertimeplan. Slik kan man ha oversikt over flere lærere
+samtidig, og ut fra dette gjøre gode valg for timeplanlegging av klassen og
+læreren.
+
+I tillegg er det en nedtrekksliste for rom. Når man velger fag, så vil den
+automatisk stille seg inn på det rommet som er tildelt klassen _Grunnlagsdata
+> Klasse_, eller faget i _Grunnlagsdata > Rom_. Nedtrekkslisten inneholder
+bare rom som er ledige for denvalgte timen.
+
+I bildet har vi timeplanlagt fem av de
+seks timene i norsk, og vi ser at siden vi har markert faget i listen, så er også
+de allerede timeplanlagte timene i faget vist med rød bakgrunn i timeplanen
+til klassen.
