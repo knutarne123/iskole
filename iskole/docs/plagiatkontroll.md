@@ -13,7 +13,7 @@ Dersom dere ønsker å teste løsningen for plagiatkontroll tar dere kontakt med
 ## For faglæreren
 Naviger til prøven. _Mine sider > Vurderinger > Fag > Alle elevene i faget > Velg prøven_. 
 
-![alt text](../img/innleveringer.png 'Oversikt over antall innleveringer.')
+![Oversikt over antall innleveringer](../img/innleveringer.png)
  
 Kolonnen _Innlevering_ viser antall innleveringer. Ved å klikke på _Vis(n)_ kan man se prosent likhet og rapport for den enkelte innlevering. For å laste ned alle innleveringene samt en rapport som viser prosent likehet og en lenke til rapporten for den enkelte innlevering, klikker man på _Last ned alle innleveringer_. Man får da en zipfil som inneholder alle innleveringene og samlerapporten.
 
