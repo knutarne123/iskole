@@ -2,13 +2,11 @@ module.exports = {
   someSidebar: [
     {
       type: 'doc',
-      label: 'Oversikt',
-      items: ['oversikt'],
+      id: 'oversikt',
     },
     {
       type: 'doc',
-      label: 'iSkole elev',
-      items: ['elev'],
+      id: 'elev',
     },
     {
       type: 'category',
