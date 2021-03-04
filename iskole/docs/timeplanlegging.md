@@ -126,13 +126,11 @@ annet fag, vil fagkoden være "999999". Timeplanleggeren trenger som nevnt
 kun å forholde seg til fagets kortnavn. Men når en kommer så langt ut i
 skoleåret at læreren skal dokumentere vurderinger av eleven, da bør riktig
 fagkode være på plass.
-[^1]: Det er noen få unntak fra denne regelen. Blandt annet har Steinerskolen bokstavene RS i fjerde og femte posisjon.
-:::note
-Det er noen få unntak fra denne regelen. Blandt annet har Steinerskolen bokstavene RS i fjerde og femte posisjon.
-:::
+
+[^1] Det er noen få unntak fra denne regelen. Blandt annet har Steinerskolen bokstavene RS i fjerde og femte posisjon.
 
 ### Klasse og klassefag
-En klasse settes opp for å samle elever som følger et bestemt undervisningsprogram.
+En klasse settes opp for å samle elever som følger et bestemt undervisningsprogram[^2].
 Vanligvis vil alle elevene i en klasse undervises i alle fag i klassen.
 Vi kaller fag som er knyttet direkte til klassen, og som altså alle elevene i
 klassen kan følge, for klassefag.
@@ -157,9 +155,7 @@ alle fagene i klassen, men det er også mulig å fjerne klassefag fra eleven.
 Fagkretsen kan utvides med gruppefag eller ved at eleven gis klassefag fra
 andre klasser.
 
-:::note
-Elevene kan ha avvikende programkode i forhold til klassen. Den settes i skjermbildet _Elevadmin > Elev_
-:::
+[^2] Elevene kan ha avvikende programkode i forhold til klassen. Den settes i skjermbildet _Elevadmin > Elev_
 
 ### Gruppefag
 Gruppefag er alle fag som det kan, eller skal gis undervisning i, og som samler
