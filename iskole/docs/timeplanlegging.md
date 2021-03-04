@@ -37,15 +37,15 @@ Vi tar imot innspill om det er noe man mener burde utdypes i brukerveiledningen
 eller om det er noe som burde nedtones. Benytt gjerne e-postadressen
 som står på tittelsiden.
 
-# Sentrale begreper
+## Sentrale begreper
 Vi starter med å se på sentrale begreper som benyttes i manualen.
-## Planperiode
+### Planperiode
 Vi omtaler ofte et skoleår som en planperiode. Planperioden spenner fra 1.
 august til og med 31. juli året etter. Vi benytter skoleruten til å angi dagene i
 planperioden som skoledager, planleggingsdager eller aktivitetsdager. Øvrige
 dager er fridager.
 
-## Tid
+### Tid
 Timene for hver dag registreres fra _Timeplan > Tid_. Det vanligste er at all
 undervisning i en uke går over fem dager — mandag til fredag. Timeplanen
 kan om ønskelig også legges over seks eller syv dager i noen uker. Om
@@ -62,14 +62,14 @@ timeplanlagte fag kan iSkole beregne total undervisning (i klokketimer) for
 hvert enkelt fag for hele skoleåret. Timeplanen da være skolens okumentasjon
 for at skolen gir undervisning i det omfanget fagplanen foreskriver.
 
-## Rom
+### Rom
 Nye rom legges inn fra _Grunnlagsdata > Rom_. Stedet hvor undervisningen
 blir gitt angis med betegnelsen _rom_. Kortnavnet for rom er på inntil fire
 tegn. Merk: Romtype og antall plasser kan angis, men er ikke i bruk andre
 steder. Alle rom, uavhengig av romtype og antall plasser, kan settes inn som
 rom når timeplanen legges.
 
-## Lærer
+### Lærer
 Ansatte registreres fra _Personal > Ansatt_. For å bli registrert som faglærer
 må man registreres som _pedagog_. Det markeres i et eget felt i skjermbildet.
 Timeplanlegger kan bare benytte pedagoger som faglærer. 
@@ -77,12 +77,12 @@ Timeplanlegger kan bare benytte pedagoger som faglærer.
 Ansatte, og elever, kan bare logge seg på iSkole i tiden som er registrert mellom fradato og tildato.
 :::
 
-## Elev
+### Elev
 Elever registreres fra _Elevadmin > Elev_. Elevene som tas opp plasseres i
 klasser. En elev kan bare være elev i en klasse per skoleår. Elevene får
 automatisk tildelt fagene som klassene er satt opp med.
 
-## Karakterdokumentasjon
+### Karakterdokumentasjon
 Med karakterdokumentasjon menes i første rekke vitnemål og kompetansebevis
 som er de formelle dokumentene, men også andre karakterutskrifter
 faller inn under begrepet. Fagene som inngår som karakterdokumentasjon
@@ -90,7 +90,7 @@ har alle en gitt fagkode. På vitnemål og kompetansebevis kan et fag bare
 være oppført en gang, selv om eleven kan dokumentert eksamenskarakter
 flere ganger.
 
-## Fag
+### Fag
 I timeplansammenheng er et fag en betegnelse på en aktivitet som er
 timeplanlagt. Som regel er det knyttet en gruppe elever til faget, og faget
 har en eller flere lærere. Eksempelvis kan en gruppe elever være alle elevene
@@ -108,7 +108,7 @@ slik det står på timeplanen betegner vi ofte som fagets kortnavn for å
 skille det fra fagets fagkode. Sagt på en annen måte: Kortnavn benyttes
 i timeplansammenheng, mens fagkoden brukes på karakterdokumentasjon.
 
-## Fagkode
+### Fagkode
 Alle fag som skal på karakterdokumentasjonen må ha en fagkode. Fagkodene
 i Kunnskapsløftet starter med tre bokstaver etterfulgt av fire siffer1.
 Timeplanleggeren vil i teorien kunne legge timeplanen helt uten viten
@@ -149,7 +149,7 @@ alle fagene i klassen, men det er også mulig å fjerne klassefag fra eleven.
 Fagkretsen kan utvides med gruppefag eller ved at eleven gis klassefag fra
 andre klasser.
 
-## Gruppefag
+### Gruppefag
 Gruppefag er alle fag som det kan, eller skal gis undervisning i, og som samler
 elever fra flere klasser, eller en gruppe av elever, i en klasse. Unntaksvis er et
 fag definert både som klasse- og gruppefag. Typisk vil fag eleven kan velge,
@@ -169,7 +169,7 @@ En begrensning er det dog på fagvalget: en elev kan ikke i samme skoleår
 være registrert i to grupper som har samme fagkode.
 :::
 
-## Fagklasse
+### Fagklasse
 I noen tilfeller er det aktuelt å slå to eller flere klasser sammen for
 undervisning i et felles fag. Dette kan administreres ved å opprette faget
 som gruppefag. Men hvis alle elevene i klassene skal følge faget, er en enklere
