@@ -11,12 +11,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Time- og fagfordeling',
-      items: [
-        'tf_klassefag',
-        {
-          Docs: ['tf_klassefag'],
-        },
-      ],
+      items: ['tf_klassefag'],
     },
     {
       type: 'category',
