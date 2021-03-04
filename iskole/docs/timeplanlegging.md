@@ -197,14 +197,14 @@ Hva må, og hva bør være på plass før timeplanarbeidet starter? Det beste
 utgangspunktet for å kunne gjøre timeplanarbeidet så raskt og effektivt som
 mulig er at
 1. Alle klassense er registrert i _Grunnlagsdata > Klasse_
-2. Hver klasse er satt opp med alle sine fag i _Grunnlagsdata > Fag, klassefag_
-3. Start- og slutt-tider for undervisningen _Timeplan > Time_
-4. Gruppefagene er registrert i _Grunnlagsdata > Fag, gruppefag_
-5. Alle rom hvor det skal foregå undervisning er registrert i _Grunnlagsdata > Rom_
-6. Elevene er registrert i sine respektive klasser
-7. Årets gruppefag er satt opp i _Time- og fagfordeling > Gruppefag_
-8. Elevene er registrert med sine gruppefag _Elevadmin > Fag_
-9. Lærerne som skal undervise i fagene er registrert i _Time- og fagfordeling > Klassefag/Gruppefag_
+1. Hver klasse er satt opp med alle sine fag i _Grunnlagsdata > Fag, klassefag_
+1. Start- og slutt-tider for undervisningen _Timeplan > Time_
+1. Gruppefagene er registrert i _Grunnlagsdata > Fag, gruppefag_
+1. Alle rom hvor det skal foregå undervisning er registrert i _Grunnlagsdata > Rom_
+1. Elevene er registrert i sine respektive klasser
+1. Årets gruppefag er satt opp i _Time- og fagfordeling > Gruppefag_
+1. Elevene er registrert med sine gruppefag _Elevadmin > Fag_
+1. Lærerne som skal undervise i fagene er registrert i _Time- og fagfordeling > Klassefag/Gruppefag_
 
 De fem første punktene må legges inn første året iSkole tas i bruk. Oppsettes
 tas med når neste skoleår opprettes, og da må det kun gjøres justeriger for
@@ -217,8 +217,8 @@ valgmuligheter.
 ## Støtte til utformingen av timeplanen
 For timeplanlegger er det viktig å få avdekket følgende uønskede forhold:
 1. At en elev får kollisjon på sin timeplan
-2. At en lærer får kollisjon på sin timeplan
-3. At et rom vil bli benyttet til mer enn en aktivitet på et gitt tidspunkt
+1. At en lærer får kollisjon på sin timeplan
+1. At et rom vil bli benyttet til mer enn en aktivitet på et gitt tidspunkt
 
 Det kan tillates å legge en timeplan som gir kollisjon på elevens timeplan.
 Skolen må da godkjenne elevens fagvalg som vil medfører kollisjonen, og
