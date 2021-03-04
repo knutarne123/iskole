@@ -21,7 +21,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Emner',
-      items: ['plagiatkontroll'],
+      items: ['timeplanlegging','plagiatkontroll'],
     },
     {
       type: 'category',
