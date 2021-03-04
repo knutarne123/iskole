@@ -196,6 +196,7 @@ moderklassen.
 Hva må, og hva bør være på plass før timeplanarbeidet starter? Det beste
 utgangspunktet for å kunne gjøre timeplanarbeidet så raskt og effektivt som
 mulig er at
+
 1. Alle klassense er registrert i _Grunnlagsdata > Klasse_
 1. Hver klasse er satt opp med alle sine fag i _Grunnlagsdata > Fag, klassefag_
 1. Start- og slutt-tider for undervisningen _Timeplan > Time_
@@ -216,6 +217,7 @@ valgmuligheter.
 
 ## Støtte til utformingen av timeplanen
 For timeplanlegger er det viktig å få avdekket følgende uønskede forhold:
+
 1. At en elev får kollisjon på sin timeplan
 1. At en lærer får kollisjon på sin timeplan
 1. At et rom vil bli benyttet til mer enn en aktivitet på et gitt tidspunkt
