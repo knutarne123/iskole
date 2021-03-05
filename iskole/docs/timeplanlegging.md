@@ -282,7 +282,7 @@ befinner seg hvis vedkommende har undervisning i en bestemt time i en
 angitt uke.
 For raskt å få et innblikk i hvordan man timeplanlegger klassefag, ser
 vi nå på et enkelt eksempel på hvordan dette kan gjøres. For å få frem
-skjermbildet som er vist under, navigerer man til [_Timeplan > Timeplanlegge klasse_](/docs/timeplan_klasse).
+skjermbildet som er vist under, navigerer man til [_Timeplan > Timeplanlegge klasse_](/iskole/docs/timeplan_klasse).
 Deretter velger man klasse og uke. At man må velge
 en klasse er nokså innlysende, men hvorfor velge uke, og hvilken uke det er
 gunstig å starte med trenger noen kommentarer.
@@ -362,6 +362,9 @@ I bildet har vi timeplanlagt fem av de
 seks timene i norsk, og vi ser at siden vi har markert faget i listen, så er også
 de allerede timeplanlagte timene i faget vist med rød bakgrunn i timeplanen
 til klassen.
+
+![Timeplanlegge klasse]
+(/iskole/img/timeplan_tplegge_klasse.jpg 'Timeplanlegge klasse.')
 
 ### Timeplanlegge klasse
 Fagene fordeles ut på timeplanen ved at man først velger faget i listen over
@@ -486,6 +489,9 @@ Blokkskjemaet gir den optimale oversikten over hvordan undervisningen
 tenkes organisert, uten at man tar stilling til når på dagen undervisningen
 skal finne sted.
 
+![Timer]
+(/iskole/img/timeplan_time.jpg 'Timer.')
+
 ### Menyvalgene for timeplanlegging av gruppefag
 Når man klikker på menyvalget _Timeplan_, får man oversikt over de
 forskjellige fasene i timeplanleggingen. Det faller natrulig å gjennomføre
@@ -540,6 +546,9 @@ id (blokkid) forenkler timeplanleggerens fordeling av blokknummer til
 gruppefagene. Da må id settes på aktuelle gruppefag fra 
 _Time- og fagfordeling > Gruppefag_ før timeplanleggger går løs på _Timeplan > Blokknr_
 for gruppefag.
+
+![Definer blokknr]
+(/iskole/img/timeplan_definer_blokknr.jpg 'Definer blokknr.')
 
 :::tip Merk
 Hvis man skal ha gruppefag med på timeplanen, må _Antall timer til valg (blokknr)_

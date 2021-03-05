@@ -1,5 +1,5 @@
 ---
-id: timeplan_blokknr
+id: timeplan_timeplanlegge_blokknr
 title: Timeplanlegge blokknr
 sidebar_label: Timeplanlegge blokknr
 ---

@@ -1,5 +1,5 @@
 ---
-id: timeplan_klasse
+id: timeplan_timeplanlegge_klasse
 title: Timeplanlegge klasse
 sidebar_label: Timeplanlegge klasse
 ---
